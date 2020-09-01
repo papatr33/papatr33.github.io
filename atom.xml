@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://papatr33.github.io</id>
     <title>Pseudo Capital</title>
-    <updated>2020-09-01T13:09:30.032Z</updated>
+    <updated>2020-09-01T13:11:30.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://papatr33.github.io"/>
     <link rel="self" href="https://papatr33.github.io/atom.xml"/>
-    <subtitle>Pseudo Capital</subtitle>
+    <subtitle>An alternative take on the global financial market.</subtitle>
     <logo>https://papatr33.github.io/images/avatar.png</logo>
     <icon>https://papatr33.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Pseudo Capital</rights>
